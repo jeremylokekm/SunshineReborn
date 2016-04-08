@@ -30,4 +30,4 @@
         <item name="android:windowEnterTransition">@transition/details_window_enter_transition</item>
         <item name="android:windowReturnTransition">@transition/details_window_return_transition</item>
     </style>
-</resources> 
+</resources>
