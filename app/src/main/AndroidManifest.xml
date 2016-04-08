@@ -79,6 +79,10 @@
                 android:name="android.content.SyncAdapter"
                 android:resource="@xml/syncadapter" />
         </service>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAUu6AaH4_xNfY804KU5O2x58x7F-_PZjQ"/>
     </application>
 
 </manifest>
